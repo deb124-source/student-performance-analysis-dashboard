@@ -93,7 +93,9 @@ The dataset includes student academic and behavioral data such as:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](image/Screenshot 2026-05-23 193929.png)
+<img src="image/Screenshot 2026-05-23 193929.png" width="700"/>
+
+---
 
 ## ⚙️ Installation & Usage
 
